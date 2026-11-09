@@ -88,3 +88,7 @@ I formuläret fyller du i:
 - Responsiv och tillgänglig
 - Minimal bloat
 - Utvecklad med git (add, commit, push och pull ), github och hostad via github pages
+
+## Screenshot
+
+![Kafé Kardemumma](images/screenshot.webp)
