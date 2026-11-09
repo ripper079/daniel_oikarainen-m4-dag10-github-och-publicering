@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Kafé Knallebullar</title>
+  <!-- Bakgrund -->
+  <rect width="64" height="64" rx="14" fill="#6b3f2a"/>
+  <!-- Ånga -->
+  <path d="M22 13c-3 4 3 6 0 11M32 11c-3 4 3 6 0 11M42 13c-3 4 3 6 0 11"
+        fill="none" stroke="#f5d9b0" stroke-width="3" stroke-linecap="round"/>
+  <!-- Handtag -->
+  <path d="M46 33h3a6 6 0 0 1 0 12h-5" fill="none" stroke="#f8ecd8" stroke-width="4" stroke-linecap="round"/>
+  <!-- Kopp -->
+  <path d="M14 30h32v8a14 14 0 0 1-14 14h-4a14 14 0 0 1-14-14z" fill="#f8ecd8"/>
+  <!-- Kaffeyta -->
+  <rect x="14" y="30" width="32" height="4" fill="#c98b4f"/>
+  <!-- Fat -->
+  <rect x="10" y="53" width="44" height="4" rx="2" fill="#f5d9b0"/>
+</svg>
